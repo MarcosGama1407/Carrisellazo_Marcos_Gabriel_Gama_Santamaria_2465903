@@ -1,0 +1,56 @@
+body{
+    background-image: url(../img/fondo.jpg);
+    background-repeat: no-repeat;
+    text-align: center;
+    background-size: cover;
+}
+
+h1{
+    color: #efb810;
+}
+
+.bitcoin{
+    width: 700px;
+    margin-bottom: 12rem;
+    margin-left: 12rem;
+}
+
+.coin{
+    height: 500px;
+    width: 500px;
+}
+
+.b{
+    width: 400px;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
+
+.container{
+    width: 50rem;
+    margin-top: 2rem;
+    border-radius: 5px;
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0.253) 0%, rgba(255, 255, 255, 0.1) 2%);
+    
+}
+button{
+    width: 15rem;
+    height: 3rem;
+    margin: 3%;
+}
+
+select{
+    margin-top: -60%;
+    text-align: center;
+}
+
+.btn{
+    background-color: rgb(255, 208, 0);
+}
+
+.btn:hover{
+    background-color: #efb810;
+}
